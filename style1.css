@@ -1,3 +1,8 @@
+
+.lebar{
+    width:20%;
+}
+
 body :: after{
     content:    "xs";
     position: fixed;
